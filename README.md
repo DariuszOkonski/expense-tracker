@@ -1,4 +1,4 @@
-![Expense-Tracker](src/img/git-main.png)
+![Expense-Tracker](src/git-main.png)
 # Expense-Tracker in React
 
 Expense-Tracker is a create react app. It was created for desktop views only. App is monitoring
